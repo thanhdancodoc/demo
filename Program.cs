@@ -10,7 +10,7 @@ namespace DEMO
     {
         static void Main(string[] args)
         {
-            Console.Write("le thanh dan");
+            Console.Write("le thanh dan dien");
         }
     }
 }
