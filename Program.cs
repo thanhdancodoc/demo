@@ -10,6 +10,7 @@ namespace DEMO
     {
         static void Main(string[] args)
         {
+            Console.Write("le thanh dan");
         }
     }
 }
